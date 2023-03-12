@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Golem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gorund
+    uniqueID: 2463672443
+    locked: 0
+  - name: Player
+    uniqueID: 1461085493
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 1350301013
+    locked: 0
+  - name: UI
+    uniqueID: 1650312255
+    locked: 0
+  - name: Golem
+    uniqueID: 67300391
+    locked: 0
