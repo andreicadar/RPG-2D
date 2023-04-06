@@ -181,6 +181,10 @@ The tavern man sells consumables that increase player stats over a period of tim
 
 ![consumables](Media/Tavern.png)
 
+### Dying
+
+When dying the player loses half of his coins and respawns to the starting location of the map he died on.
+
 ### Music :notes:
 
 The game has only two soundtracks that loop and fit very well the atmosphere of an 2D RPG game.
