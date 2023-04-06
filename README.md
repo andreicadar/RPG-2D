@@ -15,6 +15,7 @@ When starting the game the user enters the main menu where he can
 </ul>
 The defaule name is Mircea
 <br>
+
 The user also has the **RESET** option which deletes all localy saved data.
 
 ## Playing the game
@@ -23,7 +24,7 @@ When starting the game the player enters the main village.
 ![VillageImage](Media/Village.png)
 <br>
 <br>
-In the top right corner we can see the player base stats
+In the top left corner we can see the player base stats
 
 ### Player base stats
 
@@ -44,13 +45,11 @@ After pressing the **List** button represented by three lines, more combat stats
 
 #### Quests
 
-Each quest line has its own story and about 4 to 5 quests each
-<br>
-Each quest also has its own mini-story.
-<br>
-The quests get harder in difficulty and the rewards are bigger.
-<br>
-<br>
+<ul>
+    <li>Each quest line has its own story and about 4 to 5 quests each</li>
+    <li>Each quest also has its own mini-story.</li>
+    <li>The quests get harder in difficulty and the rewards are bigger.</li>
+</ul>
 When progressing through a quest a progress log is displayed in the right part
 ![ProgressImage](Media/QuestProgress.png)
 
@@ -83,4 +82,21 @@ They have a an area in which they can spawn or move, a frequency of movement, a 
 
 ##### Slimes
 
-Currently there are three types of slimes in the game, green red and purple. The last one beeing the strongest.
+<br>
+
+Currently there are three types of slimes in the game, green red and purple. The last one beeing the strongest. Can only damage the player by running into it.
+![GreenSlime](Media/GreenSlime.png)
+
+##### Bats
+
+<br>
+
+Bats act simillar to slimes but they are faster in movement and go straight towards the player position. After a successful dodge the player can safely attack once.
+![Bats](Media/Bats.png)
+
+##### Golems
+
+<br>
+
+Golems are the most powerfull type of enemy in the game. They are masive, move slowly and have lasers as an ability.
+![Golem](Media/Golem.png)
