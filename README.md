@@ -180,3 +180,11 @@ The tavern man sells consumables that increase player stats over a period of tim
 </ul>
 
 ![consumables](Media/Tavern.png)
+
+### Music :notes:
+
+The game has only two soundtracks that loop and fit very well the atmosphere of an 2D RPG game.
+
+### Credits
+
+I want to thank here to two of my highschool friends who deisgned the slimes, bats and the golem. The rest of the 2D design was downloaded from a free to use source.
