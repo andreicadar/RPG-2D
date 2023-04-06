@@ -51,6 +51,8 @@ After pressing the **List** button represented by three lines, more combat stats
     <li>The quests get harder in difficulty and the rewards are bigger.</li>
 </ul>
 When progressing through a quest a progress log is displayed in the right part
+<br>
+
 ![ProgressImage](Media/QuestProgress.png)
 
 #### NPCs
