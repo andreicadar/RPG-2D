@@ -41,6 +41,31 @@ After pressing the **List** button represented by three lines, more combat stats
 
 ![VillageImage](Media/Stats.png)
 
+### Hotbar
+
+In the bottom of the screen it is the player hotbar, each item can be access by precing `1`, `2` or `3`
+
+![Hotbar](Media/Hotbar.png)
+
+#### Notes
+
+<ul>
+<li>
+
+_Because usually the player will have a weapon, it can store that weapon and two other consumables_</li>
+
+<li>
+
+_When the slot is empty and it is selected the player will attack with his bare fists_</li>
+
+<li>
+
+_When an consumable is consumed the slot will pe empty_</li>
+
+</ul>
+<br>
+The newly selected item will appear in the character's hands.
+
 ### NPCs and Quests
 
 #### Quests
@@ -49,6 +74,7 @@ After pressing the **List** button represented by three lines, more combat stats
     <li>Each quest line has its own story and about 4 to 5 quests each</li>
     <li>Each quest also has its own mini-story.</li>
     <li>The quests get harder in difficulty and the rewards are bigger.</li>
+    <li>The player can have active multiple quests at a time</li>
 </ul>
 When progressing through a quest a progress log is displayed in the right part
 <br>
@@ -102,3 +128,55 @@ Bats act simillar to slimes but they are faster in movement and go straight towa
 
 Golems are the most powerfull type of enemy in the game. They are masive, move slowly and have lasers as an ability.
 ![Golem](Media/Golem.png)
+<br>
+
+### Shops
+
+Currently in the game there are two shops. One for weapons and one for consumables.
+<br>
+When a new item is bought it is assigned in first free Hotbar slot
+
+#### Weapons
+
+This shop is found on the main map.
+<br>
+
+There are 3 types of weapons by size:
+
+<ul>
+    <li>Dagger</li>
+    <li>Sword</li>
+    <li>Axe</li>
+</ul>
+Swords and Axes can critical strike.
+
+<br>
+And also each one belongs to one of three cateogires:
+
+<ul>
+    <li>Normal</li>
+    <li>Fire</li>
+    <li>Ice</li>
+</ul>
+<br>
+Fire and Ice weapons have a chance to induce damage over time. Fire weapons having a higher damager over time but ice weapons have a chance to slow down the enemies.
+
+_Note: when no weapon is equipped the player attack with bare hands and no additional weapon damage is added._
+<br>
+
+_Note: Swords and axes have a higher hit-box than the bare fist and dagger._
+
+![Weapons](Media/WeaponsShop.png)
+
+#### Consumables
+
+The tavern man sells consumables that increase player stats over a period of time or permanently.
+
+<ul>
+    <li>Potions increase one stat for 20 seconds like damange, movement speed and defense.</li>
+    <li>Foods increase two stats for 20 seconds.</li>
+    <li>Cereals is a special and expensive type of food which increases the MaximumHP permanentely by 1.</li>
+    <li>To consum a consumable the player must choose its inventory space and press click</li>
+</ul>
+
+![consumables](Media/Tavern.png)
